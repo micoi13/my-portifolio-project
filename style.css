@@ -943,3 +943,6 @@ Products Page
 .project-footer a:hover {
   color: var(--clr-primary-1);
 }
+.fa-github {
+  font-size: 2rem;
+}
